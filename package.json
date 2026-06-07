@@ -1,0 +1,12 @@
+{
+  "name": "nme-messenger",
+  "version": "1.0.0",
+  "description": "n.me - Самый мощный мессенджер",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["messenger", "chat", "telegram"],
+  "author": "n.me",
+  "license": "MIT"
+}
